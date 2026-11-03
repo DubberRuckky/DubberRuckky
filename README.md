@@ -41,14 +41,6 @@
 ### 🏆 Certifi cations & Achievements
 * TODO: 1st place in Sathyabama Maze Bot Challenge. Overall Shield Winner (Regional Level) in AWIM 2018
 ---
-### 📊 GitHub Activity & Metrics
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DubberRuckky&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DubberRuckky&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DubberRuckky&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="50%" />
-</p>
 ### Connect With Me
 * Always happy to connect with fellow students and engineers interested in cloud and Linux.
 * Reach out on [LinkedIn](https://www.linkedin.com/in/inba-ilakiyan-a-e-51909742a/).
